@@ -6687,7 +6687,7 @@ body .ui-tooltip {
   line-height: 103px;
   margin-right: 30px;
   color: var(--tp-theme-1);
-  background-color: #01221e;
+  background-color: #ffffff;
 }
 @media (max-width: 767px) {
   .tp-footer-top-info-icon i {
